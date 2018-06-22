@@ -1,4 +1,4 @@
-# vue-panel-toast
+# vue-panel-toast-demo
 
 > A Vue.js project
 
