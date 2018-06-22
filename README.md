@@ -1,4 +1,4 @@
-# vue-keyboard
+# vue-panel-toast-demo
 
 > A Vue.js project
 
