@@ -13,7 +13,7 @@
 
 <script>
 export default {
-  name: 'test-panel',
+  name: 'testPanel',
   data () {
     return {
       checkedNumber: ''

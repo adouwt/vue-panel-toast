@@ -1,8 +1,8 @@
 {
   "name": "vue-panel-toast",
   "description": "A Vue component to panel-toast-demo",
-  "version": "1.0.1",
-  "author": "adoubeta <13161282746@163.com>",
+  "version": "0.0.2",
+  "author": "adoubetao <13161282746@163.com>",
   "private": false,
   "license": "MIT",
   "main": "dist/toastPanel.js",
